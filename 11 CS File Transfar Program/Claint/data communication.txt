@@ -1,0 +1,7 @@
+When we communicate, we are sharing information. This sharing can be local or remote. 
+Between individuals, local communication usually occurs face to face, while remote communication takes place over distance. 
+The term telecommunication, which includes telephony, telegraphy, and television, means communication at a distance
+ (tele is Greek for "far").
+The word data refers to information presented in whatever form is agreed upon by the parties creating and using the data.
+
+EOF

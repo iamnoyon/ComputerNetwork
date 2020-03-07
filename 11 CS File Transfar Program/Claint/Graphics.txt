@@ -1,0 +1,23 @@
+Visible light (commonly referred to simply as light) is electromagnetic radiation that is visible to the human eye,
+ and is responsible for the sense of sight.
+             Electromagnetic radiation has a dual nature as both particles and waves. One way to look at it is as 
+changing electric and magnetic fields which propagate through space, forming an electromagnetic wave, [Illustration].
+ This wave has amplitude, which is the brightness of the light, wavelength, which is the color of the light, and an 
+angle at which it is vibrating, called polarization .This was the classical interpretation, crystallized in Maxwell's
+ Equations,
+
+           In terms of the modern quantum theory, electromagnetic radiation consists of particles called photons,
+ which are packets ("quanta") of energy which move at the speed of light. In this particle view of light, the brightness
+ of the light is the number of photons, the color of the light is the energy contained in each photon,
+ and four numbers (X, Y, Z and T) are the polarization.
+
+
+           Visible light has a wavelength in the range of about  from of 7x10-5 cm (red) to 4x10-5 cm (violet) ,
+ between the invisible  infrared, with longer wavelengths and the invisible  ultraviolet, with shorter wavelengths. 
+
+         Primary properties of visible light are intensity, propagation direction, frequency or wavelength spectrum,
+ and polarization , while its speed in a vacuum, 299,792,458 meters per second (about 300,000 kilometers per second), 
+is one of the fundamental constants of nature. Visible light, as with all types of electromagnetic radiation (EMR) is
+ experimentally found to move at exactly this same speed in vacuum.
+
+EOF

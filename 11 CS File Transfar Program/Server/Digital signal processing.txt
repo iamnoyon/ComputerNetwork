@@ -1,0 +1,8 @@
+The basic idea now known as the Z-transform was known as Laplace earlier .
+ To produce a digital signal from an original analog signal ,The standard method is to sample the signal periodically and 
+digitize it with an A to D converter using a standard number of bits 8, 16 etc. Digital signal processing is primarily
+ concerned with the processing of these sampled signals . z-transform was first introduced to handle complex variables 
+in the previous transforming equations , though X(z) is a complex function having real and imaginary parts z-transforms 
+ provides a straight  forward way of computing the output of an LTI system.
+
+EOF

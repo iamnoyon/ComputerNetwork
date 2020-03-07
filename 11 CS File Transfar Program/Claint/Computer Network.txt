@@ -1,0 +1,29 @@
+In a distributed system the collection of independent computers appears to its users as a single coherent system .
+In distributed processing instated of one large machine being responsible for all aspects of a process ,
+ separate computers handle a subset. Often a layer  of software on the top of operating system ,
+called middleware is responsible for  implementing this model.
+©	Logical Address:
+    Logical address necessary for universal communication that are independent of underlying Physical network. 
+Physical addresses are not adequate in an internetwork where multiple networks are involved in single data transection
+ and also these networks can have different addressing format and different hosts under different network could have 
+copy of same address.
+
+Logical address is  an universal addressing system which identifies each host uniquely ,regardless of the underlying
+ physical network .and often known as IP address
+
+A Logical address in the internet  is currently a 32-bit address .No tow publicly addressed and visible  
+host on the internet  can have same a IP address.
+                  127.255.255.255
+
+©	Port  Address:
+                 Ports in networking  acts like sockets on a multiplug. nowadays  computers can run multiple
+ processes t the same time and while sharing resources (both information or device) with other computer on the
+ network  it needs dedicated socket for each unique process to establish  and complete the communication procedure .
+For  these processes to receive data simultaneously, we need  a method to assign different  destination or label . 
+In TCP/IP protocol the label assigned to a process is called port address .
+
+In TCP/IP a port address is defined by 16 bit
+
+                                0753 hex digit code.
+
+EOF
